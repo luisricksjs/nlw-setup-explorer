@@ -1,4 +1,4 @@
-<h1 align="center"> Habist</h1>
+<h1 align="center"> Habits</h1>
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habist é um app para ajudara rastrear os hábitos.
+O Habits é um app para ajudara rastrear os hábitos.
 
 ## 🔖 Layout
 
